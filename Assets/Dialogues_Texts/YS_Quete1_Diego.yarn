@@ -1,0 +1,618 @@
+title: Maitresse.Telepathy.1
+tags: Introduction Start
+colorID: 6
+position: -1029,592
+---
+<<SpeakerName Maitresse >>  
+Je n'y comprends rien, comment aider ce petit, pourquoi est-il si violent.
+===
+title: Maitresse.Talk.1
+tags: 
+colorID: 0
+position: -1029,400
+---
+<<SpeakerName Maitresse>>
+Bonjour Amy, Diego a encore brisé l'horloge de la salle commune !
+Le voila puni dans sa chambre, il l'aura cherché !
+===
+title: Emma.Talk.6
+tags: 
+colorID: 0
+position: 857,-165
+---
+<<SpeakerName Emma>>
+...
+===
+title: Emma.Talk.7
+tags: 
+colorID: 0
+position: 1118,-151
+---
+<<SpeakerName Emma>>
+...
+===
+title: Amy.Self.0
+tags: 
+colorID: 2
+position: -1500,-763
+---
+<<SpeakeName Amy>>
+<<Progression 1>>
+Premier jour à l'orphelinat... 
+J'espère que je pourrais aider.
+===
+title: Maitresse.Talk.2
+tags: 
+colorID: 0
+position: -623,409
+---
+<<SpeakerName Maitresse>>
+Bonjour Amy, Diego a encore brisé l'horloge de la salle commune !
+Le voila puni dans sa chambre, il l'aura cherché !
+===
+title: Maitresse.Talk.3
+tags: 
+colorID: 0
+position: -207,412
+---
+<<SpeakerName Maitresse>>
+Bonjour Amy, Diego a encore brisé l'horloge de la salle commune !
+Le voila punis dans sa chambre, il l'aura cherché !
+===
+title: Maitresse.Talk.4
+tags: 
+colorID: 0
+position: 292,452
+---
+<<SpeakerName Maitresse>>
+Tant qu'il ne se sera pas excusé ! Aucune chance qu'il ne sorte !
+===
+title: Maitresse.Talk.5
+tags: 
+colorID: 0
+position: 574,450
+---
+<<SpeakerName Maitresse>>
+Tant qu'il ne se sera pas excusé ! Aucune chance qu'il ne sorte !
+===
+title: Maitresse.Talk.6
+tags: 
+colorID: 0
+position: 859,447
+---
+<<SpeakerName Maitresse>>
+Tant qu'il ne se sera pas excusé ! Aucune chance qu'il ne sorte !
+===
+title: Maitresse.Talk.7
+tags: 
+colorID: 0
+position: 1167,413
+---
+<<SpeakerName Maitresse>>
+Tant qu'il ne se sera pas excusé ! Aucune chance qu'il ne sorte !
+===
+title: Maitresse.Telepathy.7
+tags: 
+colorID: 6
+position: 1165,550
+---
+<<SpeakerName Maitresse>>
+Je devrais le laisser sortir, je suis la pire personne qui existe...
+===
+title: Maitresse.Telepathy.6
+tags: 
+colorID: 6
+position: 855,573
+---
+<<SpeakerName Maitresse>>
+Je devrais le laisser sortir, je suis la pire personne qui existe...
+===
+title: Maitresse.Telepathy.5
+tags: 
+colorID: 6
+position: 577,557
+---
+<<SpeakerName Maitresse>>
+Je devrais le laisser sortir, je suis la pire personne qui existe...
+===
+title: Maitresse.Telepathy.4
+tags: 
+colorID: 6
+position: 294,560
+---
+<<SpeakerName Maitresse>>
+Je devrais le laisser sortir, je suis la pire personne qui existe...
+===
+title: Maitresse.Telepathy.3
+tags: 
+colorID: 6
+position: -207,543
+---
+<<SpeakerName Maitresse>>
+Je n'y comprends rien, comment aider ce petit, pourquoi est-il si violent.
+===
+title: Maitresse.Telepathy.2
+tags: Debut 1
+colorID: 6
+position: -625,575
+---
+<<SpeakerName Maitresse>>
+Je n'y comprends rien, comment aider ce petit, pourquoi est-il si violent.
+===
+title: Emma.Talk.1
+tags: 
+colorID: 0
+position: -1030,-155
+---
+<<SpeakerName Emma>>
+...
+===
+title: Emma.Telepathy.1
+tags: 
+colorID: 6
+position: -1025,16
+---
+<<SpeakerName Emma>>
+Il n'y en a encore que pour Diego..
+===
+title: Chat.Talk.1
+tags: 
+colorID: 0
+position: -1051,-653
+---
+<<SpeakerName Chat>>
+Miaou !?
+===
+title: Chat.Telepathy.1
+tags: 
+colorID: 6
+position: -1053,-469
+---
+<<SpeakerName Chat>>
+Alors comme ça on espionne les pensées des gens ! 
+Et ben c'est du propre !
+===
+title: Cuisinier.Talk.1
+tags: 
+colorID: 0
+position: -1068,-1161
+---
+<<SpeakerName Cuisinier>>
+Ah, Amy.. Je crois que Diego va rester enfermé dans sa chambre pour un moment !
+===
+title: Cuisinier.Telepathy.1
+tags: 
+colorID: 6
+position: -1062,-1047
+---
+<<SpeakerName Cuisinier>>
+<<Progression 2>>
+Ou alors il faudrait que quelqu'un récupère la clé sur l'armoire de la salle commune..
+===
+title: Emma.Talk.2
+tags: 
+colorID: 0
+position: -625,-163
+---
+<<SpeakerName Emma>>
+...
+===
+title: Emma.Telepathy.2
+tags: 
+colorID: 6
+position: -624,20
+---
+<<SpeakerName Emma>>
+Il n'y en a encore que pour Diego..
+===
+title: Emma.Talk.3
+tags: 
+colorID: 0
+position: -207,-178
+---
+<<SpeakerName Emma>>
+...
+===
+title: Emma.Telepathy.3
+tags: 
+colorID: 6
+position: -201,28
+---
+<<SpeakerName Emma>>
+Je me demande pourquoi la gamelle du chat était encore dehors à cette heure si ?
+===
+title: Emma.Talk.4
+tags: 
+colorID: 0
+position: 231,-159
+---
+<<SpeakerName Emma>>
+...
+===
+title: Emma.Telepathy.4
+tags: 
+colorID: 6
+position: 230,21
+---
+<<SpeakerName Emma>>
+Il n'y en a encore que pour Diego..
+===
+title: Emma.Talk.5
+tags: 
+colorID: 0
+position: 536,-136
+---
+<<SpeakerName Emma>>
+...
+===
+title: Emma.Telepathy.5
+tags: 
+colorID: 6
+position: 528,53
+---
+<<SpeakerName Emma>>
+Diego m'agace tellement des fois.. il lui faudrait quelqu'un d'aussi agaçant que lui..
+===
+title: Chat.Talk.2
+tags: 
+colorID: 0
+position: -624,-655
+---
+<<SpeakerName Chat>>
+Miaou !?
+===
+title: Chat.Telepathy.2
+tags: 
+colorID: 6
+position: -632,-477
+---
+<<SpeakerName Chat>>
+<<Progression 3>>
+Hein, qu'est-ce que tu veux? 
+Ce truc là ?
+Désolé ma petite mais je ne travaille pas le ventre vide !
+===
+title: Cuisinier.Talk.2
+tags: 
+colorID: 0
+position: -637,-1161
+---
+<<SpeakerName Cuisinier>>
+Ah, Amy.. Je crois que Diego va rester enfermé dans sa chambre pour un moment !
+===
+title: Cuisinier.Telepathy.2
+tags: 
+colorID: 6
+position: -634,-1044
+---
+<<SpeakerName Cuisinier>>
+Ou alors il faudrait récupérer la clé sur l'armoire de la salle commune
+===
+title: PorteDiego
+tags: 
+colorID: 2
+position: -418,1154
+---
+<<SpeakeName Amy>>
+C'est la chambre de Diego,
+La porte est fermé à clé.
+===
+title: Horloge
+tags: 
+colorID: 2
+position: -99,1157
+---
+<<SpeakeName Amy>>
+C'est l'horloge que Diego a brisé.
+===
+title: Gamelle
+tags: 
+colorID: 2
+position: 223,1157
+---
+Ce doit être la gamelle du chat.
+===
+title: Chat.Talk.3
+tags: 
+colorID: 0
+position: -205,-650
+---
+<<SpeakerName Chat>>
+Miaou !?
+===
+title: Chat.Telepathy.3
+tags: 
+colorID: 6
+position: -205,-508
+---
+<<SpeakerName Chat>>
+Hein, qu'est-ce que tu veux? 
+Ce truc là ?
+Désolé ma petite mais je ne travaille pas le ventre vide !
+===
+title: Cuisinier.Talk.3
+tags: 
+colorID: 0
+position: -220,-1161
+---
+<<SpeakerName Cuisinier>>
+Ce vieux chat est vraiment agaçant, mais bon c'est un peu notre mascotte.
+===
+title: Cuisinier.Telepathy.3
+tags: 
+colorID: 6
+position: -225,-1050
+---
+<<SpeakerName Cuisinier>>
+Ca me fait penser que j'ai oublié de nourrir le chat, 
+aucune idée de ce que j'ai fait de cette gamelle d'ailleurs.
+===
+title: Cuisinier.Talk.4
+tags: 
+colorID: 0
+position: 161,-1161
+---
+<<SpeakerName Cuisinier>>
+Ce vieux chat est vraiment agaçant, mais bon c'est un peu notre mascotte.
+===
+title: Cuisinier.Telepathy.4
+tags: 
+colorID: 6
+position: 153,-1047
+---
+<<SpeakerName Cuisinier>>
+Ca me fait penser que j'ai oublié de nourrir le chat,
+aucune idée de ce que j'ai fait de cette gamelle d'ailleurs.
+===
+title: Chat.Talk.4
+tags: 
+colorID: 0
+position: 217,-651
+---
+<<SpeakerName Chat>>
+Miaou !?
+===
+title: Chat.Telepathy.4
+tags: 
+colorID: 6
+position: 217,-464
+---
+<<SpeakerName Chat>>
+Ahh, je vois qu'on peut s'entendre finalement !
+Merci beaucoup petite.
+Tiens !
+<<Progression 5>>
+<<SpeakerName Amy>>
+Merci beaucoup,
+Maintenant que j'ai la clé, je vais pouvoir ouvrir la porte de la chambre de Diego !
+
+===
+title: Cuisinier.Talk.5
+tags: 
+colorID: 0
+position: 445,-1161
+---
+<<SpeakerName Cuisinier>>
+Désolé Amy mais je n'ai pas vraiment le temps, je dois préparer le repas !
+===
+title: Cuisinier.Telepathy.5
+tags: 
+colorID: 6
+position: 473,-1047
+---
+<<SpeakerName Cuisinier>>
+Cette petite me fait peur quand elle reste planté devant moi le regard vide,
+On croirait qu'elle me sonde ?
+===
+title: Chat.Talk.5
+tags: 
+colorID: 0
+position: 504,-645
+---
+<<SpeakerName Chat>>
+Miaou !?
+===
+title: Chat.Telepathy.5
+tags: 
+colorID: 6
+position: 505,-480
+---
+<<SpeakerName Chat>>
+Désolé Fillette je n'ai pas le temps de m'amuser, je suis occupé moi.
+===
+title: Cuisinier.Talk.6
+tags: 
+colorID: 0
+position: 824,-1161
+---
+<<SpeakerName Cuisinier>>
+Désolé Amy mais je n'ai pas vraiment le temps, je dois préparer le repas !
+===
+title: Cuisinier.Telepathy.6
+tags: 
+colorID: 6
+position: 820,-1047
+---
+<<SpeakerName Cuisinier>>
+Cette petite me fait peur quand elle reste planté devant moi le regard vide,
+On croirait qu'elle me sonde ?
+===
+title: Chat.Talk.6
+tags: 
+colorID: 0
+position: 832,-652
+---
+<<SpeakerName Chat>>
+Miaou !?
+===
+title: Chat.Telepathy.6
+tags: 
+colorID: 6
+position: 845,-504
+---
+<<SpeakerName Chat>>
+<<Progression 7>>
+Hein Quoi ? Le petit a roulette qui se sent seul ? 
+Je l'aime bien ce petit, je vais aller lui rendre une petite visite..
+===
+title: Cuisinier.Talk.7
+tags: 
+colorID: 0
+position: 1123,-1161
+---
+<<SpeakerName Cuisinier>>
+Désolé Amy mais je n'ai pas vraiment le temps, je dois préparer le repas !
+===
+title: Cuisinier.Telepathy.7
+tags: 
+colorID: 6
+position: 1148,-1047
+---
+<<SpeakeName Cuisinier>>
+Cette petite me fait peur quand elle reste planté devant moi le regard vide,
+On croirait qu'elle me sonde ?
+===
+title: Emma.Telepathy.6
+tags: 
+colorID: 6
+position: 854,36
+---
+<<SpeakerName Emma>>
+Diego m'agace tellement des fois.. il lui faudrait quelqu'un d'aussi agaçant que lui..
+===
+title: Emma.Telepathy.7
+tags: 
+colorID: 6
+position: 1109,32
+---
+<<SpeakerName Emma>>
+Diego m'agace tellement des fois.. il lui faudrait quelqu'un d'aussi agaçant que lui..
+===
+title: Chat.Talk.7
+tags: 
+colorID: 0
+position: 1158,-663
+---
+<<SpeakerName Chat>>
+Miaou !?
+===
+title: Chat.Telepathy.7
+tags: 
+colorID: 6
+position: 1154,-494
+---
+<<SpeakerName Chat>>
+Hein Quoi ? Le petit a roulette qui se sent seul ?
+Je l'aime bien ce petit, je vais aller lui rendre une petite visite..
+===
+title: Diego.Talk.5
+tags: 
+colorID: 0
+position: 589,833
+---
+<<SpeakerName Diego>>
+Qu'est-ce que tu fais là toi au juste ? Laisse moi tranquille à la fin !
+===
+title: Diego.Telepathy.5
+tags: 
+colorID: 6
+position: 593,1025
+---
+<<SpeakerName Diego>>
+<<Progression 6>>
+C'est ça laissez-moi seul ! De toute façon j'ai toujours été seul..
+Toujours seul..
+Si seulement..
+===
+title: Diego.Talk.6
+tags: 
+colorID: 0
+position: 893,841
+---
+<<SpeakerName Diego>>
+Qu'est-ce que tu fais là toi au juste ? Laisse moi tranquille à la fin !
+===
+title: Diego.Telepathy.6
+tags: 
+colorID: 6
+position: 894,1024
+---
+<<SpeakerName Diego>>
+C'est ça laissez-moi seul ! De toute façon j'ai toujours été seul..
+Toujours seul..
+Si seulement..
+===
+title: Diego.Talk.7
+tags: 
+colorID: 0
+position: 1196,850
+---
+<<SpeakerName Diego>>
+Amy? ah..
+Salut ouai, désolé pour tout à l'heure. je sais pas vraiment pourquoi, mais, merci..
+<<Progression 8>>
+
+===
+title: Diego.Telepathy.7
+tags: 
+colorID: 6
+position: 1201,1028
+---
+<<SpeakerName Diego>>
+J'ai enfin trouvé un ami...
+<<Progression 8>>
+===
+title: Amy.Self.9
+tags: 
+colorID: 2
+position: 1532,14
+---
+<<SpeakerName Amy>>
+Je suis heureuse d'avoir pu l'aider!
+<<Progression 10>>
+au revoir ! 
+===
+title: Gamelle2
+tags: 
+colorID: 2
+position: 223,1157
+---
+<<Progression 4>>
+Ce doit être la gamelle du chat,
+Je pense qu'il sera content de manger !
+===
+title: Diego.Talk.8
+tags: 
+colorID: 0
+position: 1196,850
+---
+<<SpeakerName Diego>>
+Amy? ah..
+Salut ouai, désolé pour tout à l'heure. je sais pas vraiment pourquoi, mais, merci..
+
+===
+title: Diego.Telepathy.8
+tags: 
+colorID: 6
+position: 1201,1028
+---
+<<SpeakerName Diego>>
+J'ai enfin trouvé un ami...
+===
+title: Swing
+tags: 
+colorID: 6
+position: 1201,1028
+---
+<<SpeakerName Amy>>
+C'est la balançoire, ce n'est pas souvent que l'on s'en sert ici.
+===
+title: Ascenceur
+tags: 
+colorID: 7
+position: 238,833
+---
+<<SpeakerName Amy>>
+C'est l'ascenceur qui mène aux chambres des autres enfants,
+Je n'ai pas vraiment de raison de l'emprunter
+===

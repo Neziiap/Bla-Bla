@@ -1,0 +1,654 @@
+title: Maitresse.Talk.1
+tags: 
+colorID: 6
+position: 754,249
+---
+<<SpeakerName Maitresse>>
+C'est à cette heure là que tu te réveille ?
+
+File remplir ton estomac !
+===
+title: George.Talk.1
+tags: 
+colorID: 3
+position: 1248,247
+---
+<<SpeakerName George>>
+Amy dis moi tu as vu Emma aujourd'hui ?
+
+<<SpeakerName Amy>>
+Non Pourquoi ?//Function_Amy-hésitante
+
+<<SpeakerName George>>
+Je ne l'ai pas vu de la journée ce qui veut dire qu'elle n'à rien eu à manger depuis hier soir,
+
+est-ce que tu pourrais aller vérifier qu'elle aille bien ?
+
+<<SpeakerName Amy>>
+Bien sûr !
+
+<<Progression 2>>
+===
+title: George.Telepathy.1
+tags: 
+colorID: 1
+position: 1466,249
+---
+<<SpeakerName George>>
+J'avais préparé son repas préféré...
+===
+title: Maitresse.Telepathy.1
+tags: 
+colorID: 1
+position: 969,247
+---
+<<SpeakerName Maitresse>>
+Moi vivante ces enfants ne mourront jamais de faim.
+===
+title: Maitresse.Talk.2
+tags: 
+colorID: 6
+position: 757,466
+---
+<<SpeakerName Maitresse>>
+J'espère que tu as bien manger il faut prendre des forces.
+
+<<SpeakerName Amy>>
+Oui le cuisinier a préparé un très bon repas !
+===
+title: Maitresse.Telepathy.2
+tags: 
+colorID: 1
+position: 970,468
+---
+<<SpeakerName Maitresse>>
+Je me fais du soucis pour ces enfants... Je n'ai pas encore vu emma je devrais peut-être aller la réveiller
+===
+title: Emma.Talk.2
+tags: 
+colorID: 5
+position: 1740,477
+---
+<<SpeakerName Amy>>
+Salut Emma !
+
+<<SpeakerName Emma>>
+...
+
+<<SpeakerName Amy>>
+Ne t'en fais pas je sais que tu es muette et que ce n'est pas par méchanceté que tu ne me repond pas.
+===
+title: Emma.Telepathy.2
+tags: 
+colorID: 1
+position: 1966,475
+---
+<<SpeakerName Emma>>
+Qu'est-ce que j'aimerais pouvoir m'exprimer... que ça soit avec ma voix ou d'une autre manière
+
+<<Progression 3>>
+===
+title: Maitresse.Talk.3
+tags: 
+colorID: 6
+position: 754,688
+---
+<<SpeakerName Amy>>
+Maitresse,est-ce que vous savez où je pourrais trouver de quoi peindre ?
+
+<<SpeakerName Maitresse>>
+Oui, mais c'est réservé aux ateliers tu devrais le savoir !
+===
+title: Maitresse.Telepathy.3
+tags: 
+colorID: 1
+position: 972,689
+---
+<<SpeakerName Maitresse>>
+Il y a trop d'outil dangereux dans la Cabane à outil dans la cours,
+
+et la clé est bien cachée sous le paillasson pour qu'ils ne puissent pas aller se blesser.//Function_CabaneKeyInteractionBubble Set Active
+
+Est-ce qu'elle a eu l'impression que je lui criait dessus ?
+
+Je devrait être plus tendre avec eux, mais je voudrais qu'ils sachent se tenir...
+
+<<Progression 4>>
+===
+title: Peinture
+tags: 
+colorID: 7
+position: 351,1290
+---
+<<SpeakerName Amy>>
+Voilà ! Je suis sûr que ça...
+
+ça lui rendra le sourire !//Function_PaintInHands
+
+<<Progression 6>>
+===
+title: Instrument
+tags: 
+colorID: 7
+position: 124,1290
+---
+<<SpeakerName Amy>>
+Je ne suis pas sûr que ça va lui plaire...
+
+J'ai remarqué qu'elle avais des tâches de couleurs sur elle, peut être qu'elle à un esprit créatif !
+===
+title: George.Talk.2
+tags: 
+colorID: 3
+position: 1249,471
+---
+<<SpeakerName George>>
+Moi vivant vos assiettes seront toujours rempli de bons petits plats équilibrés Ah-Ah-Ah !
+===
+title: George.Telepathy.2
+tags: 
+colorID: 1
+position: 1469,474
+---
+<<SpeakerName George>>
+Et si je leurs  faisait de la cuisine du monde pour ce soir...
+===
+title: Emma.Talk.5
+tags: 
+colorID: 5
+position: 1741,1142
+---
+<<SpeakerName Amy>>
+Re- Emma !
+
+<<SpeakerName Emma>>
+...
+
+<<SpeakerName Amy>>
+Je suis entrain de te préparer une surprise attends moi d'accord ?
+===
+title: Maitresse.Talk.7
+tags: 
+colorID: 6
+position: 748,1596
+---
+<<SpeakerName Maitresse>>
+Amy je peut te parler une minute ?
+
+<<SpeakerName Amy>>
+Si vous voulez.
+
+<<SpeakerName Maitresse>>
+Depuis que tu es arrivée les autres enfants n'ont jamais été aussi heureux,
+
+Ta prèsence apporte la joie autour de toi,
+
+donc je ne sais pas vraiment pourquoi mais... Merci !
+
+<<Progression 8>>
+===
+title: Maitresse.Telepathy.7
+tags: 
+colorID: 1
+position: 972,1597
+---
+<<SpeakerName Maitresse>>
+Je suis sûr qu'elle cache quelque chose,
+
+Peut-être un bouquin sur l'éducation... Il me le faut,
+
+oh non... la honte de lui demander.
+===
+title: George.Talk.3
+tags: 
+colorID: 3
+position: 1248,692
+---
+<<SpeakerName George>>
+Alors, tu as aimé ton repas ce midi ?
+
+<<SpeakerName Amy>>
+Oui ! C'était le meilleur que j'ai eu depuis que je suis ici !
+===
+title: George.Telepathy.3
+tags: 
+colorID: 1
+position: 1471,690
+---
+<<SpeakerName George>>
+Le menu de ce soir c'est Mexicain !
+
+Ils vont adorés !
+===
+title: Emma.Telepathy.1
+tags: 
+colorID: 1
+position: 1965,252
+---
+<<SpeakerName Emma>>
+Il n'y en a toujours que pour diego...
+
+J'aimerais qu'on prête plus attention à moi.
+===
+title: Maitresse.Talk.4
+tags: 
+colorID: 6
+position: 756,913
+---
+<<SpeakerName Maitresse>>
+Tu as déjà fais un tour dans la cours ?
+
+Tu as largement de quoi t'amuser dehors
+===
+title: Maitresse.Telepathy.4
+tags: 
+colorID: 1
+position: 974,914
+---
+<<SpeakerName Maitresse>>
+La balançoire est flambant neuve, même moi j'ai envie d'en faire.
+===
+title: Emma.Telepathy.7
+tags: 
+colorID: 1
+position: 1965,1601
+---
+<<SpeakerName Emma>>
+Je vais pouvoir peindre tooout ce que je veux !
+
+Merci grande soeur.
+===
+title: Maitresse.Talk.5
+tags: 
+colorID: 6
+position: 755,1134
+---
+<<SpeakerName Maitresse>>
+Tu as profité du grand soleil dehors ?
+===
+title: Maitresse.Telepathy.5
+tags: 
+colorID: 1
+position: 976,1136
+---
+<<SpeakerName Maitresse>>
+J'irais bien bronzer un peu...
+===
+title: George.Telepathy.4
+tags: 
+colorID: 1
+position: 1471,917
+---
+<<SpeakerName George>>
+Le menu de ce soir c'est Mexicain,
+
+ils vont adorés !
+===
+title: George.Talk.5
+tags: 
+colorID: 3
+position: 1247,1134
+---
+<<SpeakerName George>>
+Alors, tu as aimé ton repas ce midi ?
+
+<<SpeakerName Amy>>
+Oui ! C'était le meilleur que j'ai eu depuis que je suis ici !
+===
+title: George.Telepathy.5
+tags: 
+colorID: 1
+position: 1471,1139
+---
+<<SpeakerName George>>
+Finalement ça sera Japonais,
+
+ils en rafolent déjà grâce aux Mangas,
+
+C'est un coup sûr !
+===
+title: George.Talk.7
+tags: 
+colorID: 3
+position: 1243,1599
+---
+<<SpeakerName George>>
+J'ai appris que Emma se sentait mieux grâce à toi,
+
+Merci du fond du coeur.
+
+Je vais continuer de vous préparer de fabuleux repas Ah-Ah-Ah !
+
+<<SpeakerName Amy>>
+J'ai hâte d'y goûter !
+===
+title: George.Telepathy.7
+tags: 
+colorID: 1
+position: 1469,1599
+---
+<<SpeakerName George>>
+Quelle brave petite,
+
+Je lui apprendrais à cuisiner avant qu'elle quitte l'orphelinat,
+
+Quelle puisse se régaler sans avoir besoin de personne.
+===
+title: Emma.Telepathy.3
+tags: 
+colorID: 1
+position: 1965,696
+---
+<<SpeakerName Emma>>
+Qu'est-ce que j'aimerais pouvoir m'exprimer... que ça soit avec ma voix ou d'une autre manière
+===
+title: Emma.Telepathy.4
+tags: 
+colorID: 1
+position: 1964,918
+---
+<<SpeakerName Emma>>
+Qu'est-ce que j'aimerais pouvoir m'exprimer... que ça soit avec ma voix ou d'une autre manière
+===
+title: Emma.Telepathy.5
+tags: 
+colorID: 1
+position: 1963,1144
+---
+<<SpeakerName Emma>>
+Qu'est-ce que j'aimerais pouvoir m'exprimer... que ça soit avec ma voix ou d'une autre manière
+===
+title: Emma.Talk.1
+tags: 
+colorID: 5
+position: 1738,250
+---
+<<SpeakerName Amy>>
+Salut Emma !
+
+<<SpeakerName Emma>>
+...
+===
+title: Emma.Talk.3
+tags: 
+colorID: 5
+position: 1742,696
+---
+<<SpeakerName Amy>>
+Re- Emma !
+
+<<SpeakerName Emma>>
+...
+
+<<SpeakerName Amy>>
+Je suis entrain de te préparer une surprise attends moi d'accord ?
+===
+title: Emma.Talk.4
+tags: 
+colorID: 5
+position: 1744,921
+---
+<<SpeakerName Amy>>
+Re- Emma !
+
+<<SpeakerName Emma>>
+...
+
+<<SpeakerName Amy>>
+Je suis entrain de te préparer une surprise attends moi d'accord ?
+===
+title: Emma.Talk.7
+tags: 
+colorID: 5
+position: 1740,1601
+---
+<<SpeakerName Amy>>
+Je vois que tu apprécie peindre je suis contente de te voir sourire !
+
+<<SpeakerName Emma>>
+!!!
+===
+title: Paillasson
+tags: 
+colorID: 7
+position: 121,1071
+---
+<<SpeakerName Amy>>
+Il est sale ce paillasson.
+===
+title: Clés
+tags: 
+colorID: 7
+position: 353,1068
+---
+<<Progression 5>>
+
+<<SpeakerName Amy>>
+Personne n'aurait osé toucher ce paillasson sale pour pour voir ce qu'il y a en dessous,
+
+Bien joué Maitresse, mais merci pour la clé !
+===
+title: Diego.Talk.1
+tags: 
+colorID: 2
+position: 2214,247
+---
+<<SpeakerName Diego>>
+Merci d'avoir fais venir ce chat à moi !
+===
+title: Diego.Telepathy.1
+tags: 
+colorID: 1
+position: 2441,251
+---
+<<SpeakerName Diego>>
+Il ronronne toute la journée, c'est trop mignon.
+===
+title: Diego.Talk.2
+tags: 
+colorID: 2
+position: 2215,469
+---
+<<SpeakerName Diego>>
+Merci d'avoir fais venir ce chat à moi !
+===
+title: Diego.Talk.3
+tags: 
+colorID: 2
+position: 2217,691
+---
+<<SpeakerName Diego>>
+Merci d'avoir fais venir ce chat à moi !
+===
+title: Diego.Talk.4
+tags: 
+colorID: 2
+position: 2215,927
+---
+<<SpeakerName Diego>>
+Merci d'avoir fais venir ce chat à moi !
+===
+title: Diego.Talk.5
+tags: 
+colorID: 2
+position: 2215,1140
+---
+<<SpeakerName Diego>>
+Merci d'avoir fais venir ce chat à moi !
+===
+title: Diego.Talk.7
+tags: 
+colorID: 2
+position: 2216,1604
+---
+<<SpeakerName Diego>>
+J'ai vu que Emma était très heureuse aujourd'hui pendant qu'elle peignait,
+
+Je sais que tu lui a apporté les outils merci beaucoup pour tout !
+===
+title: Diego.Telepathy.2
+tags: 
+colorID: 1
+position: 2440,478
+---
+<<SpeakerName Diego>>
+Il ronronne toute la journée, c'est trop mignon.
+===
+title: Diego.Telepathy.3
+tags: 
+colorID: 1
+position: 2441,699
+---
+<<SpeakerName Diego>>
+Il ronronne toute la journée, c'est trop mignon.
+===
+title: Diego.Telepathy.4
+tags: 
+colorID: 1
+position: 2442,925
+---
+<<SpeakerName Diego>>
+Il ronronne toute la journée, c'est trop mignon.
+===
+title: Diego.Telepathy.5
+tags: 
+colorID: 1
+position: 2441,1145
+---
+<<SpeakerName Diego>>
+Il ronronne toute la journée, c'est trop mignon.
+===
+title: Diego.Telepathy.7
+tags: 
+colorID: 1
+position: 2444,1605
+---
+<<SpeakerName Diego>>
+J'ai adoré voir son sourire,
+
+si je lui offre quelque chose peut-être qu'elle me sourira aussi...
+===
+title: Maitresse.Talk.6
+tags: 
+colorID: 6
+position: 756,1355
+---
+<<SpeakerName Maitresse>>
+Tu as profité du grand soleil dehors ?
+===
+title: Maitresse.Telepathy.6
+tags: 
+colorID: 1
+position: 976,1357
+---
+<<SpeakerName Maitresse>>
+J'irais bien bronzer un peu...
+===
+title: George.Talk.6
+tags: 
+colorID: 3
+position: 1244,1357
+---
+<<SpeakerName George>>
+Alors, tu as aimé ton repas ce midi ?
+
+<<SpeakerName Amy>>
+Oui ! C'était le meilleur que j'ai eu depuis que je suis ici !
+===
+title: George.Telepathy.6
+tags: 
+colorID: 1
+position: 1470,1364
+---
+<<SpeakerName George>>
+Finalement ça sera Japonais,
+
+ils en rafolent déjà grâce aux Mangas,
+
+C'est un coup sûr !
+===
+title: Emma.Talk.6
+tags: 
+colorID: 5
+position: 1740,1360
+---
+<<SpeakerName Amy>>
+Re- Emma !
+
+J'ai vu que tu étais triste tout à l'heure alors je t'ai apporté ça pour que tu puisse passer le temps.
+
+<<SpeakerName Emma>>
+!!!
+
+<<SpeakerName Amy>>
+Ca te permettra de t'exprimer de manière artistique ;)
+
+<<Progression 7>>
+===
+title: Emma.Telepathy.6
+tags: 
+colorID: 1
+position: 1963,1359
+---
+<<SpeakerName Emma>>
+Qu'est-ce que j'aimerais pouvoir m'exprimer... que ça soit avec ma voix ou d'une autre manière
+===
+title: Diego.Talk.6
+tags: 
+colorID: 2
+position: 2215,1361
+---
+<<SpeakerName Diego>>
+Merci d'avoir fais venir ce chat à moi !
+===
+title: Diego.Telepathy.6
+tags: 
+colorID: 1
+position: 2441,1363
+---
+<<SpeakerName Diego>>
+Il ronronne toute la journée, c'est trop mignon.
+===
+title: Amy.Self.0
+tags: 
+colorID: 8
+position: 465,15
+---
+<<SpeakerName Amy>>
+Mince, je suis en retard pour la cantine !
+
+Je ferais mieux de me dépècher.
+
+<<Progression 1>>
+===
+title: George.Talk.4
+tags: 
+colorID: 3
+position: 1246,912
+---
+<<SpeakerName George>>
+Alors, tu as aimé ton repas ce midi ?
+
+<<SpeakerName Amy>>
+Oui ! C'était le meilleur que j'ai eu depuis que je suis ici !
+===
+title: Ascenceur
+tags: 
+colorID: 7
+position: 238,833
+---
+<<SpeakerName Amy>>
+C'est l'ascenceur qui mène aux chambres des autres enfants,
+
+Il mets trop de temps à descendre c'est relou...
+
+Je vais pas attendre toute la journée.
+===
+title: Swing
+tags: 
+colorID: 6
+position: 1201,1028
+---
+<<SpeakerName Amy>>
+C'est la balançoire, ce n'est pas souvent que l'on s'en sert ici.
+===

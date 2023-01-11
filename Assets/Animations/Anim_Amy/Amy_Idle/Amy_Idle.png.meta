@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: c063a00ce4dd8ee4f85943b8fa191f6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8790487063769785399
+    second: Amy_Idle_0
+  - first:
+      213: -1840329061564242148
+    second: Amy_Idle_1
+  - first:
+      213: -3682284445184109880
+    second: Amy_Idle_2
+  - first:
+      213: 4495718879673200897
+    second: Amy_Idle_3
+  - first:
+      213: 6206360592775653686
+    second: Amy_Idle_4
+  - first:
+      213: 3688284974054269996
+    second: Amy_Idle_5
+  - first:
+      213: -3581289882691128223
+    second: Amy_Idle_6
+  - first:
+      213: -1166397925066525476
+    second: Amy_Idle_7
+  - first:
+      213: 2136083040456502433
+    second: Amy_Idle_8
+  - first:
+      213: -437472683744329244
+    second: Amy_Idle_9
+  - first:
+      213: 814510301555214895
+    second: Amy_Idle_10
+  - first:
+      213: 5041392467656594775
+    second: Amy_Idle_11
+  - first:
+      213: -7487499420465339948
+    second: Amy_Idle_12
+  - first:
+      213: 8272968184155381112
+    second: Amy_Idle_13
+  - first:
+      213: 2063880219395514317
+    second: Amy_Idle_14
+  - first:
+      213: 8936114640231057833
+    second: Amy_Idle_0
+  - first:
+      213: -3707653378258249978
+    second: Amy_Idle_1
+  - first:
+      213: 109686946515988425
+    second: Amy_Idle_2
+  - first:
+      213: 3494928020544391661
+    second: Amy_Idle_3
+  - first:
+      213: 1422266848066278103
+    second: Amy_Idle_4
+  - first:
+      213: -2936226382019514450
+    second: Amy_Idle_5
+  - first:
+      213: 4759440923113051959
+    second: Amy_Idle_6
+  - first:
+      213: 781128079320266132
+    second: Amy_Idle_7
+  - first:
+      213: -5760906362174917222
+    second: Amy_Idle_8
+  - first:
+      213: -581649761307494869
+    second: Amy_Idle_9
+  - first:
+      213: -2725546382623064311
+    second: Amy_Idle_10
+  - first:
+      213: 3746887728799577415
+    second: Amy_Idle_11
+  - first:
+      213: 3961385953198140980
+    second: Amy_Idle_12
+  - first:
+      213: -4819160062978582069
+    second: Amy_Idle_13
+  - first:
+      213: -1448258459786584875
+    second: Amy_Idle_14
+  - first:
+      213: -1952016347977335832
+    second: Amy_Idle_15
+  - first:
+      213: -7902910005340259946
+    second: Amy_Idle_16
+  - first:
+      213: -4599078123833326610
+    second: Amy_Idle_17
+  - first:
+      213: 7613115857042361162
+    second: Amy_Idle_18
+  - first:
+      213: -6664492387466769758
+    second: Amy_Idle_19
+  - first:
+      213: 2943210610981644501
+    second: Amy_Idle_20
+  - first:
+      213: 6104542202074393306
+    second: Amy_Idle_15
+  - first:
+      213: 5797628898692373466
+    second: Amy_Idle_16
+  - first:
+      213: 8371154918597862971
+    second: Amy_Idle_17
+  - first:
+      213: -6996241304409435046
+    second: Amy_Idle_18
+  - first:
+      213: -4033250961672029167
+    second: Amy_Idle_19
+  - first:
+      213: 7773174527666028655
+    second: Amy_Idle_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amy_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7375c9f8d4eec0240800000000000000
+      internalID: 4759440923113051959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 400
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9c3237be4730c70800000000000000
+      internalID: 8936114640231057833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 400
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607d3ae75e4cb8cc0800000000000000
+      internalID: -3707653378258249978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 400
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf259b52bfa58100800000000000000
+      internalID: 109686946515988425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 400
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de98b1c848a708030800000000000000
+      internalID: 3494928020544391661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d21ecea928ecb310800000000000000
+      internalID: 1422266848066278103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafa89f89ad6047d0800000000000000
+      internalID: -2936226382019514450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b0c2df19fa293f24d9043737689ae67a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
